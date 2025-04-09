@@ -1,0 +1,52 @@
+[
+    {
+        "img": "Teap1.jpg",
+        "Title": "Tea",
+        "Text": "hi"
+    },
+    {
+        "img": "Teap2.jpg",
+        "Title": "Asam tea",
+        "Text": "hi"
+    },
+    {
+        "img": "Teap3.jpg",
+        "Title": "White tea",
+        "Text": "hi"
+    },
+    {
+        "img": "Teap4.jpg",
+        "Title": "Black tea",
+        "Text": "hi"
+    },
+    {
+        "img": "Teap5.jpg",
+        "Title": "Puerh tea",
+        "Text": "hi"
+    },
+    {
+        "img": "Teap6.jpg",
+        "Title": "Herbel tea",
+        "Text": "hi"
+    },
+    {
+        "img": "Teap7.jpg",
+        "Title": "Ginger tea",
+        "Text": "hi"
+    },
+    {
+        "img": "Teap8.jpg",
+        "Title": "Green tea",
+        "Text": "hi"
+    },
+    {
+        "img": "Teap9.jpg",
+        "Title": "Honey tea",
+        "Text": "hi"
+    },
+    {
+        "img": "Teap10.jpg",
+        "Title": "Oolong tea",
+        "Text": "hi"
+    }
+]
